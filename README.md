@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyamaniha
-- 👀 I’m interested in Cloud, OpenShift, Pentesting and Videogames
-- 🌱 I’m currently learning Python and OpenShift
+- 👀 I’m interested in Cloud, Kubernetes, Pentesting and Videogames
+- 🌱 I’m currently learning Python and Pentesting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
